@@ -1,0 +1,26 @@
+
+body{
+    background-image: url("white.jpg");
+    background-attachment: fixed;
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    
+
+}
+
+h1 {
+    height: 30px;
+    text-shadow: 2px 2px 5px black;
+    opacity: .9;
+  }
+ 
+/* .bg {
+    background-color: #555555;
+}
+
+.bg1{
+    background-color: #555555;
+} */
+
+
